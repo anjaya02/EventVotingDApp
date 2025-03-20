@@ -1,5 +1,4 @@
 ```md
-
 # Event Voting DApp
 
 ## Overview
@@ -13,22 +12,22 @@ The **Event Voting DApp** is a decentralized application (DApp) built using Soli
 - ✅ **Admin Controls**: Only the contract owner can create events, start/stop voting.
 
 ## Technologies Used
-- **Solidity** - Smart contract development
-- **Hardhat** - Ethereum development environment
-- **Ethers.js** - Blockchain interaction
-- **React.js** - Frontend for the voting DApp
-- **MetaMask** - Wallet integration
+- **Solidity** - Smart contract development  
+- **Hardhat** - Ethereum development environment  
+- **Ethers.js** - Blockchain interaction  
+- **React.js** - Frontend for the voting DApp  
+- **MetaMask** - Wallet integration  
 
 ## Installation & Setup
 
 ### 1. Clone the Repository
-
+```sh
 git clone https://github.com/YOUR_GITHUB_USERNAME/EventVotingDApp.git
 cd EventVotingDApp
-
+```
 
 ### 2. Install Dependencies
-
+```sh
 npm install
 ```
 
