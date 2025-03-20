@@ -1,5 +1,3 @@
-Yes! Here is everything in proper **Markdown (`.md`) format**:
-
 ```md
 # Event Voting DApp
 
