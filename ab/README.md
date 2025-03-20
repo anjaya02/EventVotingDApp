@@ -1,4 +1,5 @@
 ```md
+
 # Event Voting DApp
 
 ## Overview
@@ -21,13 +22,13 @@ The **Event Voting DApp** is a decentralized application (DApp) built using Soli
 ## Installation & Setup
 
 ### 1. Clone the Repository
-```sh
+
 git clone https://github.com/YOUR_GITHUB_USERNAME/EventVotingDApp.git
 cd EventVotingDApp
-```
+
 
 ### 2. Install Dependencies
-```sh
+
 npm install
 ```
 
